@@ -1,0 +1,44 @@
+\documentclass[11pt]{memoir}
+\usepackage{charter}
+
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{setspace}
+\usepackage[normalem]{ulem}
+
+% \usepackage[margin=1in]{geometry}
+% \usepackage{indentfirst}
+
+% \usepackage{parskip}
+% \setlength{\parindent}{0 pt}
+% \setlingth{\parskip}{1cm}
+
+\title{##title##}
+\author{##author##}
+
+\begin{document}
+
+\clearpage
+\maketitle
+\thispagestyle{empty}
+
+
+\frontmatter
+% roman numberal numbering
+% no default chapter number w/o *
+
+% \tableofcontents
+
+
+\mainmatter
+% normal numbering
+% default chapter number w/o *
+
+
+\backmatter
+% normal numbering
+% no default chapter number w/o *
+
+
+\end{document}
