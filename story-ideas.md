@@ -1,9 +1,0 @@
-# Ideas
-
-## Fledgling Gods
-
-- **The Old Woman**: an old woman in a small secluded town (unbeknownst to the villagers) transports people once coming of age to an alternate dimension that is a disturbing mockery of the town and life they once had
-- **I'm Here**: two lifelong friends, one with time travel abilities and the other seemingly immortal, get locked into fates worse than death
-- **Thy Cup Runneth Over**: after having a strange encounter with a stranger at the grocery store, a man's mind continues to enlarge, but upon reaching the critical threshold of his mind's capacity, he begins to forget information about himself as the visions of the fledgling gods rush in
-- **Transcendence**: ravings of a madman who has beheld the truth - he speaks of his visions and transcendence through the vision in all of his eyes
-- **The Unwelcome Guest**:  a poor fellow's sleep is fine, but upon waking is greeted by a shadowman that has far too much reach into his personal psyche and life

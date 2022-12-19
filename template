@@ -23,6 +23,8 @@
 \maketitle
 \thispagestyle{empty}
 
+% synopsys: ##synopsys##
+
 
 \frontmatter
 % roman numberal numbering
