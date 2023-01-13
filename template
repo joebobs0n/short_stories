@@ -1,4 +1,4 @@
-\documentclass[11pt]{memoir}
+\documentclass[9pt]{memoir}
 \usepackage{charter}
 
 \usepackage[utf8]{inputenc}
@@ -6,16 +6,17 @@
 \usepackage{xcolor}
 \usepackage{setspace}
 \usepackage[normalem]{ulem}
+\usepackage{csquotes}
 
-% \usepackage[margin=1in]{geometry}
-% \usepackage{indentfirst}
-
-% \usepackage{parskip}
-% \setlength{\parindent}{0 pt}
-% \setlingth{\parskip}{1cm}
+\usepackage{indentfirst}
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0.7em}
+\renewcommand{\baselinestretch}{1.2}
+\renewcommand{\line}{\noindent\rule{\textwidth}{1pt}\vspace{1em}}
 
 \title{##title##}
 \author{##author##}
+\date{}
 
 \begin{document}
 
